@@ -1,6 +1,6 @@
 provider "aws" {
-    access_key = "AKIA42UKK54XRHEUEJ6H"
-    secret_key = "B0RbFA2LbQQFpCRE49CjvIqwr9mUhy/eb03t0P+G"
+    access_key = "here give the access key id of your aws account"
+    secret_key = "here give the secret key id of your aws account"
     region = "ap-south-1"
    
   
